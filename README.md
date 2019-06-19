@@ -1,6 +1,6 @@
 # BuscarObligadoTributario
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.2.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.2. The objective of it is to query the endpoint at GOMETAs website [Cedulas API](https://apis.gometa.org/cedulas/)to query for an Obligado Tributario instance
 
 ## Development server
 
